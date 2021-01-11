@@ -1,0 +1,13 @@
+.mainContainer{
+  height: 600px;
+  width: 35%;
+  margin-top:70px;
+  margin-left: 40px;
+}
+.mainContainer img{
+  height: 50px;
+}
+
+.mainContainer h4, p{
+  color: $titleColor;
+}
